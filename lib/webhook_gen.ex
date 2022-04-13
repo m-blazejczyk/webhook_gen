@@ -1,0 +1,2 @@
+defmodule WebhookGen do
+end
