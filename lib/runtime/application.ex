@@ -1,4 +1,4 @@
-defmodule WebhookGen.Application do
+defmodule WebhookGen.Runtime.Application do
   use Application
 
   @impl true
