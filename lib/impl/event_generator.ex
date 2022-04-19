@@ -1,4 +1,4 @@
-defmodule WebhookGen.Impl.SingleTicketGen do
+defmodule WebhookGen.Impl.EventGenerator do
   @type args :: %{time_scale: integer(), event_sink: pid()}
   @type e :: {sleep_minutes :: integer(), payload :: any()}
 
